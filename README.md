@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @ZacBronco
-- 👀 I’m interested in Python, blockchain and cryptocurrency.
-- 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on a new idea I have for an emerging blockchain.
+- 👀 I’m interested in Python, R, UX and UI.
+- 🌱 I’m currently learning R and Python!
+- 💞️ Love to talk about all things R, Python, and UX/UI.
 - 📫 How to reach me on Reddit: u/ZacBronco or Email: ZacBronco@protonmail.com
-
-<!---
-ZacBronco/ZacBronco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
